@@ -3,7 +3,7 @@
 
 # Hi! And welcome to my Github Page!
 
-## A little but about me: 
+## A little bit about me: 
 
 ### I'm a gamedeveloper currently studying!
 <br>
