@@ -1,4 +1,4 @@
-![Alzound logo](./Images/Alzound.3.png)
+![Alzound logo](./Images/Alzound4.png)
 ![Alzound banner](./Images/end2.JPG)
 
 # Hi! And welcome to my Github Page!
