@@ -17,6 +17,6 @@
 
 
 ## Links: 
-- [Portfolio](alzound.com)
+- [Portfolio](https://alzound.com/)
 - [Itch.io](https://alzound.itch.io/)
 - [Linkedin](https://www.linkedin.com/in/aldoacd/)
